@@ -13,3 +13,6 @@ This project is a fully functional, interactive **Hangman Game** developed in **
 * **Game State Management:** Tracks remaining attempts, correct guesses, and winning/losing states using processor registers.
 * **Interrupt Handling (INT 21h & INT 10h):** Used system calls for reading keyboard inputs instantly and rendering the text output on the emulator console.
 * **Low-Level Controls:** Handled screen updating and conditional branches (`CMP`, `JE`, `JNE`, `LOOP`) to manage the game flow.
+This firmware and simulated prototype were engineered collaboratively by our university project group:
+* **Alina Zahra** (Group Leader)
+* **Saniah Malik**
